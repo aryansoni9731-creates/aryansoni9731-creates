@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm Aryan Soni 👋
 
-<!--
-**aryansoni9731-creates/aryansoni9731-creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I enjoy building practical, user-focused applications and exploring how AI can be used to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+- Dart
+
+**Frontend**
+- React
+- Flutter
+- HTML & CSS
+- Tailwind CSS
+
+**Backend & Database**
+- Node.js
+- REST APIs
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Vite
+- Netlify / Vercel
+
+## 🚀 Featured Projects
+
+### 🧠 RecoverAI
+An AI-focused healthcare/recovery project designed to provide a practical digital experience for users.
+
+### 🌦️ WeatherGPT
+An AI-powered weather platform combining weather information with an intelligent chat interface.
+
+## 🌐 Portfolio
+
+[Visit my portfolio](https://aryansoni9731-creates.github.io/aryan-portfolio/)
+
+## 📌 What I'm Currently Building
+
+- AI-powered applications
+- Full-stack web projects
+- Practical solutions for real-world problems
+- Clean and responsive user interfaces
+
+## 📫 Connect With Me
+
+- GitHub: [@aryansoni9731-creates](https://github.com/aryansoni9731-creates)
+- Portfolio: [aryansoni9731-creates.github.io/aryan-portfolio](https://aryansoni9731-creates.github.io/aryan-portfolio/)
+
+---
+
+⭐ Thanks for visiting my profile!
