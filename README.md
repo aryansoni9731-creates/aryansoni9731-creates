@@ -8,7 +8,6 @@ I enjoy building practical, user-focused applications and exploring how AI can b
 
 **Languages**
 - JavaScript
-- Python
 - Dart
 
 **Frontend**
