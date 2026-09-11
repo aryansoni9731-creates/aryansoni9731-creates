@@ -18,7 +18,6 @@ I enjoy building practical, user-focused applications and exploring how AI can b
 
 **Backend & Database**
 - Node.js
-- REST APIs
 - MongoDB
 
 **Tools**
