@@ -1,6 +1,6 @@
 # Hey, I'm Aryan Soni 👋
 
-🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**
+🚀 **Web-Developer | AI Enthusiast | Problem Solver**
 
 I enjoy building practical, user-focused applications and exploring how AI can be used to solve real-world problems.
 
@@ -26,11 +26,6 @@ I enjoy building practical, user-focused applications and exploring how AI can b
 - Vite
 - Netlify / Vercel
 
-## 🚀 Featured Projects
-
-### 🧠 RecoverAI
-An AI-focused healthcare/recovery project designed to provide a practical digital experience for users.
-
 ### 🌦️ WeatherGPT
 An AI-powered weather platform combining weather information with an intelligent chat interface.
 
@@ -40,8 +35,7 @@ An AI-powered weather platform combining weather information with an intelligent
 
 ## 📌 What I'm Currently Building
 
-- AI-powered applications
-- Full-stack web projects
+- Web projects
 - Practical solutions for real-world problems
 - Clean and responsive user interfaces
 
