@@ -7,6 +7,7 @@ I enjoy building practical, user-focused applications and exploring how AI can b
 ## 🛠️ Tech Stack
 
 **Languages**
+- C
 - JavaScript
 - Dart
 
